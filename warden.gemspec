@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.version = Warden::VERSION.dup
   spec.authors = ["Daniel Neighman", "Justin Smestad", "Whitney Smestad", "José Valim"]
   spec.email = %q{hasox.sox@gmail.com justin.smestad@gmail.com whitcolorado@gmail.com}
-  spec.homepage = "https://github.com/hassox/warden"
+  spec.homepage = "https://github.com/wardencommunity/warden"
   spec.summary = "An authentication library compatible with all Rack-based frameworks"
   spec.license = "MIT"
   spec.extra_rdoc_files = [
